@@ -1,0 +1,14 @@
+search resolv
+hb
+so ~/.config/ranger/rifle.conf
+open_with q
+qq
+open_with h:q
+open_with kkk
+open_with nvim
+Q
+open_with :7z
+e
+open_with jkh
+w
+open_with 
